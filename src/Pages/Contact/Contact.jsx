@@ -41,7 +41,7 @@ const Contact = () => {
                   <div className="col-md-6">
                     <div className="contact__item">
                       <span className="he1 d-block mb-2">Address</span>
-                      <span className="address" style={{fontSize: '16px'}}>325 C, Al Kabir town, Lahore</span>
+                      <span className="address" style={{fontSize: '16px'}}>Lahore, Pakistan</span>
                     </div>
                   </div>
                 </div>

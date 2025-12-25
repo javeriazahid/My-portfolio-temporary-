@@ -24,7 +24,7 @@ const Drawer = ({ isSidebarActive, setIsSidebarActive }) => {
           <div className="sub__contac-item">
             <div className="content">
               <span className="address d-block"> address </span>
-              <span className="textp"> 325 C, Al Kabir town, Lahore </span>
+              <span className="textp"> Lahore, Pakistan </span>
             </div>
           </div>
           <div className="sub__contac-item">
