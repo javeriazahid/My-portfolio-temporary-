@@ -13,18 +13,18 @@ const Footer = () => {
             <div className="col-lg-6">
               <div className="get__content">
                 <p>
-                  Hello, I'm Ayesha Gul, ML Engineer, Data Scientist and Designer
+                  Hello, I'm Javeria Zahid, a Full Stack MERN developer, ML Engineer, Data Scientist and Designer
                   based in Lahore, Pakistan.
                 </p>
-                <a href="mailto:ayeshagul2003@gmail.com" style={{textTransform: 'none'}}>ayeshagul2003@gmail.com</a>
+                <a href="mailto:javeriazahid550@gmail.com" style={{textTransform: 'none'}}>javeriazahid550@gmail.com</a>
               </div>
             </div>
             <div className="col-lg-6">
               <div className="get__rightcontetn">
                 <ul className="list-unstyled d-grid gap-2">
                   
-                  <li><a href="mailto:ayeshagul2003@gmail.com" className="social__footer" style={{textTransform: 'none'}}>ayeshagul2003@gmail.com</a></li>
-                  <li><a href="https://www.linkedin.com/in/ayesha-gul-8464552ab" target="_blank" rel="noreferrer" className="social__footer">LinkedIn</a></li>
+                  <li><a href="mailto:javeriazahid550@gmail.com" className="social__footer" style={{textTransform: 'none'}}>javeriazahid550@gmail.com</a></li>
+                  <li><a href="https://www.linkedin.com/in/javeria-azahid-8464552ab" target="_blank" rel="noreferrer" className="social__footer">LinkedIn</a></li>
                 </ul>
               </div>
             </div>
@@ -37,7 +37,7 @@ const Footer = () => {
             <p className="white">
               Copyright © 2023 {" "}
               <Link to={"/"} className="base">
-                Ayesha.
+                Javeria Zahid.
               </Link>{" "}
               All rights reserved.
             </p>

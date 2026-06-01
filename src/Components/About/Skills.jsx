@@ -28,7 +28,7 @@ const Skills = ({ isTabActive }) => {
             <div className="about__onecontent">
               <h2>My Skills</h2>
               <p>
-                I work across machine learning, data processing, and design tools to deliver polished, production-ready solutions.
+                I work across full stack development, machine learning, data processing, and design tools to deliver polished, production-ready solutions.
                 These skills reflect my hands-on experience building intelligent systems and intuitive user experiences.
               </p>
               <div className="about__contactwrap">

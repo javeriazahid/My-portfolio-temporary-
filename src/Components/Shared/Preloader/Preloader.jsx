@@ -4,9 +4,9 @@ const Preloader = () => {
     <div className="preloader__matias">
       <div className="box text-center">
         <div className="matias mb-10">
-          <img src="/hmm.jpg" alt="img" />
+          <img src="/mee.jpeg" alt="img" />
         </div>
-        <span className="fz-30 mati fw-600">Ayesha</span>
+        <span className="fz-30 mati fw-600">Javeria Zahid</span>
       </div>
     </div>
   );

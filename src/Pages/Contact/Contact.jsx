@@ -28,13 +28,13 @@ const Contact = () => {
                   <div className="col-md-6">
                     <div className="contact__item mb-20">
                       <span className="he1 d-block mb-2">Email</span>
-                      <a href="mailto:ayeshagul2003@gmail.com" style={{textTransform: 'none', fontSize: '16px'}}>ayeshagul2003@gmail.com</a>
+                      <a href="mailto:javeriazahid550@gmail.com" style={{textTransform: 'none', fontSize: '16px'}}>javeriazahid550@gmail.com</a>
                     </div>
                   </div>
                   <div className="col-md-6">
                     <div className="contact__item mb-20">
                       <span className="he1 d-block mb-2">LinkedIn</span>
-                      <a href="https://www.linkedin.com/in/ayesha-gul-8464552ab" target="_blank" rel="noreferrer" style={{fontSize: '16px'}}>linkedin.com/in/ayesha-gul-8464552ab</a>
+                      <a href="https://www.linkedin.com/in/javeria-azahid-8464552ab" target="_blank" rel="noreferrer" style={{fontSize: '16px'}}>linkedin.com/in/javeria-azahid-8464552ab</a>
                     </div>
                   </div>
                  

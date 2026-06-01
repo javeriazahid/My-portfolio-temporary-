@@ -10,12 +10,12 @@ const socalIcon = [
   {
     id: 1,
     icon: <Linkedin />,
-    url: "https://www.linkedin.com/in/ayesha-gul-8464552ab",
+    url: "https://www.linkedin.com/in/javeria-azahid-8464552ab",
   },
   {
     id: 2,
     icon: <Github />,
-    url: "https://github.com/aayesha-gul",
+    url: "https://github.com/javeriazahid",
   },
 ];
 const Banner = () => {
@@ -29,7 +29,7 @@ const Banner = () => {
             <div className="banner__content">
               <Link to={""} className="bn__currently">
                 <span className="d-block">
-                  Currently available for freelance
+                  Currently available for freelance and Job opportunities
                 </span>
                 <span className="d-flex gap-4 align-items-center">
                   worldwide
@@ -37,7 +37,7 @@ const Banner = () => {
                 </span>
               </Link>
               <h1>
-                <span className="hone"> ML Engineer /</span>
+                <span className="hone"> Full stack,ML Engineer /</span>
                 <span className="d-block designers" data-text="Data Scientist">
                   Data Scientist
                 </span>

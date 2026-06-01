@@ -56,7 +56,7 @@ const About = () => {
               data-aos-duration="1000"
             />
             <p className="descrp" data-aos="fade-up" data-aos-duration="1500">
-              I'm Ayesha Gul, I'm an ML Engineer, Data Scientist and a Designer, passionate about transforming data into meaningful insights and creating intuitive user experiences. With expertise in machine learning, data analysis, and UI/UX design, I bridge the gap between technology and creativity. I'm dedicated to building solutions that are not only intelligent but also beautiful and user friendly.
+              I'm Javeria Zahid, a Full Stack developer, ML Engineer and Data Scientist passionate about solving real-world problems through intelligent automation and data-driven insights and by creating full stack web applications. With expertise in Mern Stack, machine learning, and design, I transform complex challenges into elegant, user-centered solutions.
             </p>
           </div>
           <div className="singletab">

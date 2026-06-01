@@ -17,7 +17,7 @@ const Drawer = ({ isSidebarActive, setIsSidebarActive }) => {
       </div>
       <div className="sub__contact__wrapper d-grid">
         <p>
-          I'm Ayesha Gul, an ML Engineer and Data Scientist focused on building
+          I'm Javeria Zahid, an ML Engineer and Data Scientist focused on building
           intelligent, user-friendly products that solve real problems.
         </p>
         <div className="sub__contact-left d-grid">
@@ -30,7 +30,7 @@ const Drawer = ({ isSidebarActive, setIsSidebarActive }) => {
           <div className="sub__contac-item">
             <div className="content">
               <span className="address d-block"> email </span>
-              <Link className="textp" style={{textTransform: 'none'}}> ayeshagul2003@gmail.com </Link>
+              <Link className="textp" style={{textTransform: 'none'}}> javeriazahid550@gmail.com </Link>
             </div>
           </div>
          

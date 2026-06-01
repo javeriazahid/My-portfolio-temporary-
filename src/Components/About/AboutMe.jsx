@@ -13,7 +13,7 @@ const contactInfo = [
   {
     id: 1,
     system: "Email",
-    contact: "ayeshagul2003@gmail.com",
+    contact: "javeriazahid550@gmail.com",
   },
   
   {
@@ -25,8 +25,8 @@ const contactInfo = [
     id: 4,
     system: "Follow",
     socalContact: [
-      { icon: <Linkedin />, url: "https://www.linkedin.com/in/ayesha-gul-8464552ab" },
-      { icon: <Github />, url: "https://github.com/aayesha-gul" },
+      { icon: <Linkedin />, url: "https://www.linkedin.com/in/javeria-azahid-8464552ab" },
+      { icon: <Github />, url: "https://github.com/javeriazahid" },
     ],
   },
 ];
@@ -44,7 +44,7 @@ const AboutMe = ({ isTabActive }) => {
               data-aos="zoom-in"
               data-aos-duration="500"
             >
-              <img src="/hmm.jpg" alt="img" />
+              <img src="/mee.jpeg" alt="img" />
             </div>
           </div>
           <div className="col-lg-7">
@@ -61,8 +61,8 @@ const AboutMe = ({ isTabActive }) => {
                 data-aos="fade-up"
                 data-aos-duration="500"
               >
-                I am an ML Engineer and Data Scientist passionate about solving real-world problems through intelligent automation and data-driven insights.
-                With expertise in computer vision, machine learning, and design, I transform complex challenges into elegant, user-centered solutions.
+                I am a Full Stack developer,ML Engineer and Data Scientist passionate about solving real-world problems through intelligent automation and data-driven insights and by creating full stack web applications.
+                With expertise in Mern Stack, machine learning, and design, I transform complex challenges into elegant, user-centered solutions.
               </p>
               <div className="about__contactwrap">
                 <div className="row g-4">

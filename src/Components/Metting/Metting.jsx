@@ -34,7 +34,7 @@ const Metting = () => {
                 </span>
                 <span className="box">
                   <span className="ptext fz-18 mb-1 d-block"> Email </span>
-                  <a href="#0" style={{textTransform: 'none'}}> ayeshagul2003@gmail.com </a>
+                  <a href="mailto:javeriazahid550@gmail.com" style={{textTransform: 'none'}}> javeriazahid550@gmail.com </a>
                 </span>
               </div>
               <div
