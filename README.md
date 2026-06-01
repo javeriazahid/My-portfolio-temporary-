@@ -1,80 +1,77 @@
-# My Portfolio Website
+# My Portfolio
 
-Personal portfolio website built with React and Vite to showcase my work, skills, and contact details.
-
-## Overview
-
-This project presents my background as a Full Stack Developer, ML Engineer, and Data Scientist. It includes portfolio projects, about information, contact details, and a polished single-page layout.
+This is my personal portfolio website built using React and Vite. It is designed to showcase my work, skills, achievements, and contact details in a professional way.
 
 ## Features
 
-- Portfolio project showcase with image previews and external links
-- About, experience, education, and contact sections
-- Responsive design for desktop and mobile
-- Social links to GitHub and LinkedIn
-- Resume-oriented content sections
+- Home section with introduction and quick overview
+- About me section with background, skills, and experience
+- Projects section showcasing selected work and achievements
+- Contact section for visitors to reach out easily
+- Responsive design that works on desktop, tablet, and mobile
+- Social links for GitHub and LinkedIn
 
 ## Tech Stack
 
-- React 18
-- Vite
-- React Router
-- Bootstrap
-- SCSS / Sass
-- AOS animations
-- Swiper
+- Frontend: React, Vite
+- Routing: React Router
+- Styling: Bootstrap, SCSS, custom CSS
+- Animations: AOS
+- Icons: React Bootstrap Icons
+- Other Libraries: Swiper, React Fast Marquee
 
-## Getting Started
+## Project Structure
 
-### Prerequisites
+- `src/` - Main application source code
+- `src/Components/` - Reusable UI components
+- `src/Pages/` - Page components
+- `src/Layouts/` - Layout wrappers
+- `src/Router/` - Routing setup
+- `src/Utlits/` - Data lists and helper content
+- `src/scss/` - Global and component styles
+- `public/` - Static images and assets
+- `package.json` - Project scripts and dependencies
 
-- Node.js installed on your machine
-- npm or another package manager compatible with `package.json`
+## Installation & Usage
 
-### Installation
+### Clone the repository
+
+```bash
+git clone https://github.com/javeriazahid/My-portfolio-temporary-.git
+cd My-portfolio-temporary-
+```
+
+### Install dependencies
 
 ```bash
 npm install
 ```
 
-### Development
+### Run the development server
 
 ```bash
 npm run dev
 ```
 
-### Build
+### Build for production
 
 ```bash
 npm run build
 ```
 
-### Preview
+### Preview the production build
 
 ```bash
 npm run preview
 ```
 
-### Lint
+## Live Demo
 
-```bash
-npm run lint
-```
-
-## Project Structure
-
-```text
-src/
-	Components/
-	Layouts/
-	Pages/
-	Router/
-	Utlits/
-	scss/
-public/
-```
+If deployed, add the live site link here.
 
 ## Contact
+
+If you want to reach out, feel free to connect:
 
 - Email: javeriazahid550@gmail.com
 - GitHub: https://github.com/javeriazahid
@@ -82,4 +79,4 @@ public/
 
 ## Notes
 
-This portfolio is actively maintained and updated with new projects, content, and resume details.
+This portfolio is updated regularly with new projects, content, and resume details.
