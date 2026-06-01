@@ -74,7 +74,6 @@ If deployed, add the live site link here.
 If you want to reach out, feel free to connect:
 
 - Email: javeriazahid550@gmail.com
-- GitHub: https://github.com/javeriazahid
 - LinkedIn: https://www.linkedin.com/in/javeria-azahid-8464552ab
 
 ## Notes
